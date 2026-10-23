@@ -11,13 +11,16 @@ body{
     background: #0b090a;
     color: #fff;
 }
-#header{
-    width: 50%;
-    height: 50vh;
-    background-image: url(images/background1.png);
-    background-size: cover;
-    background-position: right;
+
+#header {
+    width: 99%;
+    height: 100vh;
+    background-image: url("images/background1.png");
+    background-size: 40% auto;
+    background-position: right 110px top 90px;
+    background-repeat: no-repeat;
 }
+
 .container{
     padding: 10px 10%;
 }
